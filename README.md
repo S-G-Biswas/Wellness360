@@ -1,4 +1,5 @@
 # ByteBrains
+Wellness360 is a Personalized Fitness Assistant project utilizes ChatGPT to provide tailored workout plans and guidance for individuals aiming at specific fitness goals such as fat loss, muscle gain, and overall body shaping. The chat-based interaction with ChatGPT makes the fitness journey more engaging and accessible for users.
 ## Key Features
 Goal Customization:
 
@@ -27,18 +28,18 @@ User-friendly interface with visual representations for easy navigation.
  ## my-app/
   ## ├─ node_modules/
   ## ├─ public/
-  ## ├─ src/
-  ## │  ├─ assets/
-  ## │  ├─ components/
-  ## │  ├─ pages/
-  ## │  ├─ routes/
-  ## │  ├─ util/
-  ## │  ├─ index.js
-  ## ├─ .env
-  ## ├─ .gitignore
-  ## ├─ package.json
-  ## ├─ package.lock.json
-  ## ├─ tailwind.config.json
+  ### ├─ src/
+  #### │  ├─ assets/
+  #### │  ├─ components/
+  #### │  ├─ pages/
+  #### │  ├─ routes/
+  #### │  ├─ util/
+  #### │  ├─ index.js
+  #### ├─ .env
+  #### ├─ .gitignore
+  #### ├─ package.json
+  #### ├─ package.lock.json
+  #### ├─ tailwind.config.json
 
 ## Design Decisions or Assumptions
 - *Mobile-First Design:* The application is designed with a mobile-first approach for accessibility.
